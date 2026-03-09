@@ -1,2 +1,0 @@
-git status
-This is test3 for git
